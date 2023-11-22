@@ -33,10 +33,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "Aʟᴏɴᴇ Mᴜsɪᴄ", url="https://github.com/TeamAloneOp/AloneXMusic/fork"
+                        "Aʟᴏɴᴇ Mᴜsɪᴄ", url="\x68\x74\x74\x70\x73\x3A\x2F\x2F\x67\x69\x74\x68\x75\x62\x2E\x63\x6F\x6D\x2F\x54\x65\x61\x6D\x41\x6C\x6F\x6E\x65\x4F\x70\x2F\x41\x6C\x6F\x6E\x65\x58\x4D\x75\x73\x69\x63"
                     ),
                     InlineKeyboardButton(
-                        "Aʟᴏɴᴇ Rᴏʙᴏᴛ", url="https://github.com/TeamAloneOp/AloneXRobot/fork"
+                        "Aʟᴏɴᴇ Rᴏʙᴏᴛ", url="\x68\x74\x74\x70\x73\x3A\x2F\x2F\x67\x69\x74\x68\x75\x62\x2E\x63\x6F\x6D\x2F\x54\x65\x61\x6D\x41\x6C\x6F\x6E\x65\x4F\x70\x2F\x41\x6C\x6F\x6E\x65\x52\x6F\x62\x6F\x74"
                     ),
                 ]
             ]
